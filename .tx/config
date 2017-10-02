@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[das.qt-translation-012x]
+file_filter = src/qt/locale/das_<lang>.ts
+source_file = src/qt/locale/das_en.ts
+source_lang = en

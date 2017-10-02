@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Das
+Comment=Das P2P Cryptocurrency
+Comment[fr]=Das, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Das, eşten eşe kriptografik sanal para birimi
+Exec=das-qt %u
+Terminal=false
+Type=Application
+Icon=das128
+MimeType=x-scheme-handler/das;
+Categories=Office;Finance;

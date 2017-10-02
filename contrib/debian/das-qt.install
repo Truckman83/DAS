@@ -1,0 +1,6 @@
+usr/local/bin/das-qt usr/bin
+share/pixmaps/das32.xpm usr/share/pixmaps
+share/pixmaps/das16.xpm usr/share/pixmaps
+share/pixmaps/das128.png usr/share/pixmaps
+debian/das-qt.desktop usr/share/applications
+debian/das-qt.protocol usr/share/kde4/services/
